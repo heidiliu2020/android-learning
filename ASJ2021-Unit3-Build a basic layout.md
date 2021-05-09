@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/NaSkLQSETzW7FpnZIwUIMw/badge)](https://hackmd.io/NaSkLQSETzW7FpnZIwUIMw)
 ###### tags: `Android` `layout`
 # [ASJ2021] 從零開始學 Android（三）Unit 1: Kotlin basics for Android
 
